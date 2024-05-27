@@ -21,7 +21,7 @@ Task: building a machine learning model based on customer data to predict a nume
 ## Team:
 1) Ilyin V.B. (https://github.com/Viktor-125142) – building machine learning models based on the linear regression method and the decision tree method.
 2) Kravtsov A.V. (https://github.com/Baddogel) – basic analysis of the source data.
-3) Yefimovich E.A. (https://github.com/johnneon) – elaboration of new features.
+3) Efimovich E.A. (https://github.com/johnneon) – elaboration of new features.
 4) Kryuchkov V.V. (https://github.com/Tifles) – selection and transformation of characters.
 5) Chashnikov S.Yu. (https://github.com/SergeyChashnikov) – exploratory data analysis (EDA).
 6) Salov A.S. building a machine learning model based on the ensemble method and building a final forecast.
