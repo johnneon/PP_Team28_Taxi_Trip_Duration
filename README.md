@@ -18,7 +18,7 @@ Task: building a machine learning model based on customer data to predict a nume
     Additionally, in order to increase the accuracy of the prediction, data on: 
     * holidays in the USA;
     * the weather in New York for the specified period;
-    * * travel routes (taking into account the distance and the average time spent on such a route without taking into account traffic) obtained through the OSRM service.
+    *  travel routes (taking into account the distance and the average time spent on such a route without taking into account traffic) obtained through the OSRM service.
 
     Based on the signs from these sources, new additional signs were additionally formed.
     The target feature in the construction of the model is the duration of the trip. For the convenience of further calculations, this feature was logarithmic.
