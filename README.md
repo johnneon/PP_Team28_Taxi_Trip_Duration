@@ -108,7 +108,7 @@ The response contains:
 5) Launch the streamlet server implementing the web interface 
 
 ````bash
-streamlit run appst.pyp
+streamlit run appst.py
 ````
 ![alt text](image-1.png)
 
